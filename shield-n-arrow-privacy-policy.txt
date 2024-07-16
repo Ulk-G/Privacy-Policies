@@ -12,7 +12,7 @@ The app does not collect any data, including but not limited to:
 - Device information (device ID, IP address, location, etc.)
 - Usage data (app interactions, preferences, etc.)
 
-The Shield-N-Arrow app is a standalone application that provides motivational quotes to users without any data collection or transmission.
+The Shield-N-Arrow app is a standalone casual game.
 
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
